@@ -1,0 +1,9 @@
+/.idea
+/vendor
+/node_modules
+.DS_Store
+Thumbs.db
+composer.phar
+.vagrant
+
+\.phpintel/

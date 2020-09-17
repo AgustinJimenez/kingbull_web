@@ -1,0 +1,16 @@
+/*
+!.gitignore
+!Noticias
+!Wod
+!Profile
+!Publicaciones
+!User
+!Reservas
+!Contacto
+
+/Page/*
+!Page/Http
+/Page/Http/*
+!Page/Http/Controllers
+/Page/Http/Controllers/*
+!Page/Http/Controllers/PublicController.php
